@@ -25,3 +25,4 @@ steps:
     codeCoverageTool: 'JaCoCo'
     summaryFileLocation: '$(System.DefaultWorkingDirectory)/MyApp/**/site/cobertura/coverage.xml'
     reportDirectory: '$(System.DefaultWorkingDirectory)/MyApp/**/site/cobertura'
+    failIfCoverageEmpty: true
