@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/oscarrecio/Galvanize/_apis/build/status/oscarrecio.pipelines-java?branchName=master)](https://dev.azure.com/oscarrecio/Galvanize/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
